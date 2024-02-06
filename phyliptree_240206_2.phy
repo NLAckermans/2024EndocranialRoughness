@@ -1,0 +1,247 @@
+(
+(
+(
+(
+'Noctilio albiventris':4)
+Noctilio:4)
+Noctilionidae:4)
+Chiroptera:4,
+(
+(
+(
+'Tamias striatus':4)
+Tamias:4)
+Sciuridae:4)
+Rodentia:4,
+(
+(
+(
+'Phascolarctos cinereus':4)
+Phascolarctos:4)
+Phascolarctidae:4,
+(
+(
+'Vombatus ursinus':4)
+Vombatus:4)
+Vombatidae:4
+)Diprotodontia:4,
+(
+(
+(
+'Oryctolagus cuniculus':4)
+Oryctolagus:4)
+Leporidae:4)
+Lagomorpha:4,
+(
+(
+(
+'Orycteropus afer':4)
+Orycteropus:4)
+Orycteropodidae:4)
+Tubulidentata:4,
+(
+(
+(
+'Procavia capensis':4)
+Procavia:4)
+Procaviidae:4)
+Hyracoidea:4,
+(
+(
+(
+'Ceratotherium simum':4)
+Ceratotherium:4)
+Rhinocerotidae:4,
+(
+(
+'Tapirus indicus':4)
+Tapirus:4)
+Tapiridae:4,
+(
+(
+'Equus caballus':4)
+Equus:4)
+Equidae:4
+)Perissodactyla:4,
+(
+(
+(
+'Trichechus senegalensis':4,
+'Trichechus manatus':4
+)Trichechus:4)
+Trichechidae:4)
+Sirenia:4,
+(
+(
+(
+'Caperea marginata':4)
+Caperea:4)
+Neobalaenidae:4,
+(
+(
+'Budorcas taxicolor':4)
+Budorcas:4,
+(
+'Ovibos moschatus':4)
+Ovibos:4,
+(
+'Ovis canadensis':4,
+'Ovis aries':4
+)Ovis:4,
+(
+'Capra hircus':4)
+Capra:4
+)Bovidae:4,
+(
+(
+'Giraffa camelopardalis':4)
+Giraffa:4)
+Giraffidae:4,
+(
+(
+'Odocoileus virginianus':4)
+Odocoileus:4)
+Cervidae:4,
+(
+(
+'Vicugna pacos':4)
+Vicugna:4,
+(
+'Lama glama':4)
+Lama:4,
+(
+'Camelus dromedarius':4)
+Camelus:4
+)Camelidae:4,
+(
+(
+'Sus scrofa':4)
+Sus:4)
+Suidae:4,
+(
+(
+'Tursiops truncatus':4)
+Tursiops:4,
+(
+'Globicephala melas':4)
+Globicephala:4,
+(
+'Delphinus delphis':4)
+Delphinus:4
+)Delphinidae:4
+)Artiodactyla:4,
+(
+(
+(
+'Neomonachus tropicalis':4)
+Neomonachus:4,
+(
+'Phoca vitulina':4)
+Phoca:4
+)Phocidae:4,
+(
+(
+'Lynx rufus':4)
+Lynx:4,
+(
+'Felis catus':4)
+Felis:4
+)Felidae:4,
+(
+(
+'Neogale vison':4)
+Neogale:4,
+(
+'Pekania pennanti':4)
+Pekania:4,
+(
+'Mustela frenata':4,
+'Mustela erminea':4
+)Mustela:4,
+(
+'Taxidea taxus':4)
+Taxidea:4,
+(
+'Martes americana':4)
+Martes:4
+)Mustelidae:4,
+(
+(
+'Procyon lotor':4)
+Procyon:4)
+Procyonidae:4,
+(
+(
+(
+'Canis lupus lupus':4,
+'Canis lupus familiaris':4
+)'Canis lupus':4)
+Canis:4)
+Canidae:4
+)Carnivora:4,
+(
+(
+(
+'Tarsius tarsier':4)
+Tarsius:4)
+Tarsiidae:4,
+(
+(
+'Mirza coquereli':4)
+Mirza:4)
+Cheirogaleidae:4,
+(
+(
+'Homo sapiens':4)
+Homo:4,
+(
+'Pan troglodytes':4)
+Pan:4
+)Hominidae:4,
+(
+(
+'Varecia variegata':4)
+Varecia:4)
+Lemuridae:4
+)Primates:4,
+(
+(
+(
+'Dasypus novemcinctus':4)
+Dasypus:4)
+Dasypodidae:4)
+Cingulata:4,
+(
+(
+(
+'Choloepus hoffmanni':4)
+Choloepus:4)
+Megalonychidae:4)
+Pilosa:4,
+(
+(
+(
+'Dasyurus hallucatus':4)
+Dasyurus:4)
+Dasyuridae:4)
+Dasyuromorphia:4,
+(
+(
+(
+'Didelphis virginiana':4)
+Didelphis:4)
+Didelphidae:4)
+Didelphimorphia:4,
+(
+(
+(
+'Tachyglossus aculeatus':4)
+Tachyglossus:4)
+Tachyglossidae:4,
+(
+(
+'Ornithorhynchus anatinus':4)
+Ornithorhynchus:4)
+Ornithorhynchidae:4
+)Monotremata:4
+)Mammalia:4;
