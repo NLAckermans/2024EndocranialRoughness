@@ -1,8 +1,6 @@
-Beyond big horns: Bovid endocranial roughness as a headbutting stabilizer .
+## Beyond big horns: Bovid endocranial roughness as a headbutting stabilizer 
 
-Nicole L. Ackermans, Joy S. Reidenberg
-
-
+### Nicole L. Ackermans, Joy S. Reidenberg
 
 This GitHub project contains raw data and annotated code corresponding to the above titled scientific publication, specifically, used to create the phylogeny in Figure 1 . 
 
